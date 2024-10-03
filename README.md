@@ -12,7 +12,6 @@ This project focuses on the energy production and consumption patterns across Eu
 
 ## Datasets
 Europe Energy Production and Consumption Dataset from kaggle https://www.kaggle.com/datasets/shub218/energy-data-1990-2020: Contains data on energy production and consumption across European countries for 2020, broken down by energy type (coal, crude oil, natural gas, refined products).
-Population Dataset: Provides population data for each European country in 2020, allowing for per capita calculations of energy metrics.
 
 ## Analysis
 Energy Production and Consumption Overview:
