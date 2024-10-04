@@ -21,3 +21,5 @@ A bar chart visualizing energy deficit/profit shows countries like Norway and Ru
 ## Conclusion
 The analysis highlights significant disparities in energy production and consumption across European countries, with some acting as major energy exporters while others rely heavily on imports. This has implications for energy policy, particularly in terms of sustainability and energy independence. The per capita analysis shows that smaller energy-rich countries tend to produce more energy per person, while larger industrial nations must import significant quantities to meet demand.
 
+## LINK TO THE DASHBOARD AND A SHORT PRESENTATION
+TABLEAU PUBLIC: https://public.tableau.com/app/profile/joel.ketu/viz/Energyconsumptionandproductiondashboard/PRESENTATION?publish=yes
